@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Malang</string>
+    <string name="title_activity_angkot_detail">AngkotDetail</string>
+</resources>
